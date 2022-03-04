@@ -1,3 +1,4 @@
+//size of int float double char
 #include <iostream>
 using namespace std;
 
